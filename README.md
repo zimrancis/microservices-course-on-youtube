@@ -1,5 +1,3 @@
-# microservices-course-on-youtube# mygit
-
 Youtube: https://www.youtube.com/zobair
 LinkedIn: https://www.linkedin.com/in/zimran-cis/
 Instagram: https://www.instagram.com/zimran.cis/
